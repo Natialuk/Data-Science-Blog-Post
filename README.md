@@ -22,7 +22,7 @@ Being part of an HR department, employee' attrition is a subject that is always 
 
 ###  Files in the repository:
 1. HR Analytics Case Study_Kaggle.ipynb - a jupiter notebook file with the project code
-2. Kaggle's data set uploaded by Vijay Choudhary
+2. Employees_data.csv - Kaggle's data set uploaded by Vijay Choudhary
 
 ### Results summary
 #### result num 1:
