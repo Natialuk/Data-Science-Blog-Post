@@ -33,5 +33,7 @@ I tried to check what are the parameters with the highest impact on attrition. U
 Using Random Forests Model I managed to make a prediction with almost 98% accuracy. To make sure that I don't have overfitting I used GridSearchCV(cv = 5). 
 
 ## Acknowledgements:
-1. Udacity - for giving me this project as part of Data Science nanodegree 
-2. Kaggle - for the data and the problem statement
+1. Udacity - for giving me this project as part of Data Science nanodegree and for  many code references  
+2. Kaggle - for the data and the problem statement (uploaded by Vijay Choudhary)
+3. Stackoverflow - for many problem solving cases (from installing packages to code instructions)
+4. Medium - for the blog post platform
