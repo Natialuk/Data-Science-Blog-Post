@@ -21,7 +21,8 @@ sklearn classification_report,
 %matplotlib inline.
 
 ###  Files in the repository:
-HR Analytics Case Study_Kaggle.ipynb - a jupiter notebook file with the project code
+1. HR Analytics Case Study_Kaggle.ipynb - a jupiter notebook file with the project code
+2. Kaggle's data set uploaded by Vijay Choudhary
 
 ### Results summary
 #### result num 1:
@@ -30,3 +31,7 @@ In the question about the correlation between employee' learning investment and 
 I tried to check what are the parameters with the highest impact on attrition. Using Support Vector Machine classifier I managed to predict attrition with an accuracy score of 84% and extracted the features with the highest impact on the model results. We can see that education and job roles has a high impact on attrition. 
 #### result num 3:
 Using Random Forests Model I managed to make a prediction with almost 98% accuracy. To make sure that I don't have overfitting I used GridSearchCV(cv = 5). 
+
+## Acknowledgements:
+1. Udacity - for giving me this project as part of Data Science nanodegree 
+2. Kaggle - for the data and the problem statement
