@@ -5,20 +5,20 @@ Being part of an HR department, employee' attrition is a subject that is always 
 
 
 ### Libraries used:
-pandas,
-numpy,
-matplotlib.pyplot,
-seaborn,
-sklearn SimpleImputer,
-sklearn train_test_split,
-sklearn SVC,
-sklearn RandomForestClassifier,
-sklearn accuracy_score, precision_score, recall_score, f1_score,
-sklearn GridSearchCV,
-pprint,
-sklearn StandardScaler,
-sklearn classification_report,
-%matplotlib inline.
+1. pandas
+2. numpy
+3. matplotlib.pyplot
+4. seaborn
+5. sklearn SimpleImputer
+6. sklearn train_test_split
+7. sklearn SVC
+8. sklearn RandomForestClassifier
+9. sklearn accuracy_score, precision_score, recall_score, f1_score
+10. sklearn GridSearchCV
+11. pprint
+12. sklearn StandardScaler
+13. sklearn classification_report
+14. %matplotlib inline
 
 ###  Files in the repository:
 1. HR Analytics Case Study_Kaggle.ipynb - a jupiter notebook file with the project code
