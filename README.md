@@ -1,7 +1,20 @@
 # Data Science Blog Post
-## Why and why now? 
-I'm working in Learning and Talent Development department in a large software company. During the last few months I'm participating in Data Science and Machine Learning nanodegree program via Udacity learning platform which ignited my curiosity and pushed me to create this project.
-Being part of an HR department, employee' attrition is a subject that is always under the spotlight. Especially, nowadays that recruiting talents becomes a real challenge. I thought to myself, wouldn't it be great if we could anticipate the employee attrition in advance, or establish working processes that can reduce or even prevent attrition? Using Machine Learning and data that I extracted from Kaggle, I tried to meet this challenge and create an algorithm that can predict attrition. 
+### CRISP-DM:
+Replacing employees is a large investment. A company must spend significant time and money to search for the best talent through advertising, recruitment agencies, screening, interviewing, and hiring. According to studies done by the Center for American Progress, the cost of employee attrition varies based on the role of the employee and their salary/wage level. In the study, the CAP found the following:
+
+For low-paying jobs i.e. earning less than 30,000 USD per year, the average cost of replacement was found to be 16% of annual salary. For example, it would cost 3,328 USD to replace an employee earning 10/hour.
+For positions that earn between 30,000 USD and 50,000 USD per year, the cost of replacement was found to be 20% of annual salary.
+For executives earning high salaries, the cost of replacement was found to be 213% of annual salary. (Boushey & Glynn, 2012). For example, an executive who earns 100,000 USD would cost 213,000 USD to replace.
+In order to reduce employee attrition, companies are conducting multiple activities such as training, internal mobility, salary revision etc.
+
+The challenge is predicting attrition before it happens. In this study, I'll try to investigate attrition triggers and create a model that will predict attrition.
+
+I'll try to answer 3 questions:
+
+Is conducting more training activities can reduce employee attrition?
+What are the main factors in employee attrition?
+Is it possible to predict employee attrition?
+XYZ (a company of about 4000 employees) published a case study on Kaggle describing a problem where the company suffers from 15% attrition per year which has a high impact on the company. I'll use it to do my invatigation.
 
 
 ### Libraries used:
