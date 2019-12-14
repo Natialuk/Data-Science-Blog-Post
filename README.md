@@ -50,3 +50,4 @@ Using Random Forests Model I managed to make a prediction with almost 98% accura
 2. Kaggle - for the data and the problem statement (uploaded by Vijay Choudhary)
 3. Stackoverflow - for many problem solving cases (from installing packages to code instructions)
 4. Medium - for the blog post platform
+5. THE ACTUAL COST OF EMPLOYEE ATTRITION article - https://www.tinypulse.com/blog/the-actual-cost-of-employee-attrition
